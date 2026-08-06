@@ -1,3 +1,8 @@
 [preload  storage="./data/bgimage/283830906190c8aef18bc49dfdebf356.jpg"  ]
 [preload  storage="./data/bgimage/b340c08e6b190817c9f8d86e248a8796.jpg"  ]
+[preload  storage="./data/bgimage/48d02f0ac0e601731127bcb0dfe1add9.jpg"  ]
+[preload  storage="./data/bgimage/fa0a72b63c7d624beba64416b9ea6e99.jpg"  ]
+[preload  storage="./data/bgimage/a99c454da9fb59a56088a84e7903f4cd.jpg"  ]
+[preload  storage="./data/bgimage/c5e3ba423017de7a0c3731a0a3042212.jpg"  ]
+[preload  storage="./data/bgimage/5a597cced0d83efdb3902b6f6517d294.jpg"  ]
 [return]
